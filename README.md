@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roland @rolandhuse
 - 👀 I’m into type design and lettering
-- 🌱 I am currently studying and creating Old Hungarioan (Rovas) typefaces and script extensions to existing fonts
-- 💞️ I’m looking to collaborate on multi script type design project
+- 🌱 I am creating Old Hungarian (Rovas) typefaces and script extensions to existing fonts
+- 💞️ I’m looking to collaborate on multi script type design projects
 - 📫 my best emal is rolandhuse@gmail.com
 
 <!---
